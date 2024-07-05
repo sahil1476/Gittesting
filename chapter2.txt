@@ -1,1 +1,5 @@
-Hello texting for ch 2 here
+Hello texting for ch 2 here 
+
+After switching to branch = Branch1 
+
+here ie the new changes in file chapter 2
